@@ -1,5 +1,5 @@
-## Hi there 👋
-### Data Engineering
+## Hi there 👋, Im Rishanth!
+### Data Engineering Student | Computer Science | Exploring Data Systems, Databases & Cloud Technology
 
 <!--
 **rishanth29/rishanth29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
